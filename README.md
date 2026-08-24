@@ -2,8 +2,8 @@
 <h3 align="center">Junior Fullstack Developer | React & Next.js</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/artemenko-pavlo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/your_username"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/artemenko-pavlo](https://www.linkedin.com/in/pasha-artemenko/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://t.me/your_username](https://t.me/PashaArtem)"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:artemenkopavlo762@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -88,16 +88,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Art-Pasha&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art-Pasha&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Art-Pasha&hide_border=true" />
-</p>
+### 🌐 Languages I Speak
+<p align="left"> <img src="https://img.shields.io/badge/Ukrainian-Native-1F3B57?style=flat-square" /> <img src="https://img.shields.io/badge/Russian-Native-1F3B57?style=flat-square" /> <img src="https://img.shields.io/badge/English-Elementary-EAF0F6?style=flat-square&labelColor=1F3B57" /> </p>
 
 ---
 
