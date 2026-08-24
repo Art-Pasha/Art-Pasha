@@ -2,10 +2,6 @@
 <h3 align="center">Junior Fullstack Developer | React & Next.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3B57&center=true&vCenter=true&width=550&lines=Junior+Fullstack +Developer;React+%7C+Next.js+%7C+TypeScript;Building+things%2C+breaking+things%2C+fixing+things;Always+learning+something+new" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/artemenko-pavlo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/your_username"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:artemenkopavlo762@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
