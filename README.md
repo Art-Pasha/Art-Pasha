@@ -45,7 +45,7 @@
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
-      <a href="https://github.com/Art-Pasha/notehub">🔗 Repository</a>
+      <a href="https://github.com/Art-Pasha/09-auth">🔗 Repository</a>
     </td>
     <td width="50%">
       <h4>🎬 Movie Search App</h4>
@@ -54,7 +54,7 @@
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
       </p>
-      <a href="https://github.com/Art-Pasha/movie-search-app">🔗 Repository</a>
+      <a href="https://github.com/Art-Pasha/04-react-query">🔗 Repository</a>
     </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <a href="https://github.com/your-team/hatynka-lapok">🔗 Repository</a>
+      <a href="https://github.com/Diliri/js-project-dream-team-6">🔗 Repository</a>
     </td>
     <td width="50%">
       <h4>✨ Mixture of Enthusiasm (team project)</h4>
@@ -75,7 +75,7 @@
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
-      <a href="https://github.com/ysavchenkodev/Goit-Team-Mixture-of-enthusiasm">🔗 Repository</a>
+      <a href="https://github.com/Art-Pasha/Mixture-of-Enthusiasm-clone">🔗 Repository</a>
     </td>
   </tr>
 </table>
