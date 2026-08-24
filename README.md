@@ -90,6 +90,6 @@
 
 ### 📫 How to reach me:  
 
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pasha-artemenko/)) | [Telegram]([https://t.me/yourusername](https://t.me/PashaArtem)) | [Email](artemenkopavlo762@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pasha-artemenko/) | [Telegram]((https://t.me/PashaArtem) | [Email](artemenkopavlo762@gmail.com)
 
 <p align="center"><i>📫 Open to Junior Fullstack  Developer opportunities — let's connect!</i></p>
