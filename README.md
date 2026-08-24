@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Pavlo Artemenko 👋</h1>
 <h3 align="center">Junior Fullstack Developer | React & Next.js</h3>
 
-<p align="center">
-  <a href="[https://linkedin.com/in/artemenko-pavlo](https://www.linkedin.com/in/pasha-artemenko/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://t.me/your_username](https://t.me/PashaArtem)"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:artemenkopavlo762@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -86,11 +80,16 @@
   </tr>
 </table>
 
+
 ---
 
 ### 🌐 Languages I Speak
 <p align="left"> <img src="https://img.shields.io/badge/Ukrainian-Native-1F3B57?style=flat-square" /> <img src="https://img.shields.io/badge/Russian-Native-1F3B57?style=flat-square" /> <img src="https://img.shields.io/badge/English-Elementary-EAF0F6?style=flat-square&labelColor=1F3B57" /> </p>
 
 ---
+
+### 📫 How to reach me:  
+
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pasha-artemenko/)) | [Telegram]([https://t.me/yourusername](https://t.me/PashaArtem)) | [Email](artemenkopavlo762@gmail.com)
 
 <p align="center"><i>📫 Open to Junior Fullstack  Developer opportunities — let's connect!</i></p>
